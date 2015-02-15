@@ -1,0 +1,40 @@
+{
+  "name": "git-organizer",
+  "version": "0.0.1",
+  "description": "Desktop GUI tool for watch & organize git repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RemRyahirev/git-organizer.git"
+  },
+  "keywords": [
+    "git",
+    "tool",
+    "GUI",
+    "organizer",
+    "watch"
+  ],
+  "author": "RemRyahirev <remrayhirev@gmail.com>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/RemRyahirev/git-organizer/issues"
+  },
+  "homepage": "https://github.com/RemRyahirev/git-organizer",
+  "engines": {
+    "node": "^0.10.26",
+    "npm": "^1.4.3"
+  },
+  "devDependencies": {
+    "grunt-shell": "^1.1.1",
+    "grunt-contrib-compress": "^0.13.0"
+  },
+  "dependencies": {
+    "git-tools": "^0.1.3",
+    "nconf": "^0.7.1",
+    "q": "^1.1.2",
+    "winston": "^0.9.0"
+  }
+}

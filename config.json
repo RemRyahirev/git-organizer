@@ -1,0 +1,11 @@
+{
+    "repos": [
+        "c:/Node/git-organizer",
+        "c:/Node/tagsaudio",
+        "c:/Node/tagsaudio-client"
+    ],
+    "log": {
+        "filename": "git-organizer.log",
+        "level": "debug"
+    }
+}
